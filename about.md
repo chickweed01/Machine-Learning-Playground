@@ -43,6 +43,6 @@ Obtaining a good fit for a model often depends on making sure that the feature v
 
 **Contact**
 
-For Machine Learning Playground support questions please send an email to thomas.crampton@sandpipertechsolutions.com
+For Machine Learning Playground support questions please send an email to sandpipertechsolutions@gmail.com
 
 © 2019 Thomas Crampton
