@@ -93,4 +93,4 @@ We will let you know via email and/or a prominent notice on our Service, prior t
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at thomas.crampton@sandpipertechsolutions.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at sandpipertechsolutions@gmail.com
